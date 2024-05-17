@@ -38,3 +38,8 @@ This pipeline is designed to handle various preprocessing tasks on any given dat
 
 By following this pipeline, data professionals can automate and streamline the process of preparing data for analysis, ensuring data quality, reliability, and consistency.
 
+![dp1](https://github.com/athulb11/Data_Preprocessing_Pipeline/assets/166158616/ae7c5e6a-cefd-471c-b2fc-0fd4854155a4)
+
+And here’s how you can use this pipeline to perform all the preprocessing steps using Python:
+
+![dp2](https://github.com/athulb11/Data_Preprocessing_Pipeline/assets/166158616/3c08b88a-0605-4193-886e-222a32a539d1)
